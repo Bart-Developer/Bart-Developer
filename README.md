@@ -65,7 +65,7 @@ BootCamp FrontEnd & Backend| 2021 - present
 
 ---
 
-<h2 align="center">:raised_hands: ¡Hasta pronto!</h2>
+<h2 align="center">:raised_hands: ¡See you!</h2>
 
 <!-- refers -->
 [linkedin]: https://www.linkedin.com/in/bartolomealbarracin/
