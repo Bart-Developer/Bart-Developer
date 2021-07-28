@@ -68,5 +68,4 @@ BootCamp FrontEnd & Backend| 2021 - present
 <h2 align="center">:raised_hands: ¡Hasta pronto!</h2>
 
 <!-- refers -->
-[linkedin]: https://www.linkedin.com/in/branko-haberkon/
-[webario]: https://brankohbk.github.io/webario/index.html
+[linkedin]: https://www.linkedin.com/in/bartolomealbarracin/
