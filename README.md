@@ -9,7 +9,7 @@ Today, I have experience in developing responsive web applications in full java 
 
 For the frontend I use frameworks like Vue.js & Vue CLI -V 3.x and React.js.
 
-For backend I use Java with frameworks like Spring Boot with Maven and Gradle support. and on the other hand Mongo to develop applications for cell phones.
+For backend I use Java with frameworks like Spring Boot with Maven and Gradle support. And on the other hand Mongo to develop applications for cell phones.
 
 I am currently studying Kotlin and Python.
 
