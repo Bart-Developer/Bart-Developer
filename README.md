@@ -1,4 +1,4 @@
-# ¡Hi , there :wave:! im **Bart**.
+# ¡Hi there! :wave:! im **Bart**.
 ---
 
 ## <img src="assets/branko_15x16.png"> Bio. </h2>
