@@ -9,6 +9,8 @@ I introduce myself, my name is Bartolomé, they tell me Bart, today after doing 
 
 In my repository you will find several projects that I have in which I worked with different technologies.
 
+In them you will see in the README files a small introduction to the projects, as well as what is necessary for you to use them locally.
+
 If you are here it is because you surely saw my CV, I tell you that I am looking for my first company to contribute all my knowledge and learn from it!
 
 I am a person who likes computer science a lot, from the age of 11 I started using my first computer with windows 3.1 (remember it?), If the one that was executed with commands in the ms-dos xD.
@@ -24,6 +26,7 @@ Git (branchs, commit, pull, push, deploys (GitHub and Heroku))
 <details>
 <summary> Spanish? / Español? </summary>
 
+ 
 ¡Hola! Muchas gracias por visitar mi perfil.
 
 Me presento, me llamo Bartolomé, me dicen Bart, hoy después de hacer un Bootcamp de 700 horas. Con la metodología Agile / Scrum puedo decir que estoy orgulloso de ser un programador Full Stack.
