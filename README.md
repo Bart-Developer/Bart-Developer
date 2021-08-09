@@ -1,7 +1,7 @@
 # ¡Hi there! :wave:! I'm **Bart**.
 ---
 
-## <img src="assets/branko_15x16.png"> Bio. </h2>
+## <img src="assets/barto16x15.png"> Bio. </h2>
 
 Junior developer, I started my career in 2021 for loving technology in a virtual Bootcamp.
 
