@@ -73,10 +73,10 @@ Git (branchs, commit, pull, push, deploys (GitHub y Heroku))
 
 ### Frontend
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
+| HTML 5        | Flex Box      | JavaScript  |  DOM  |
+| ------------- |:-------------:| :----------:| Css 3 |
+| Jquery        | Pug / Jade    | Bootstrap 5 | Sass  |
+| ------------- | --------------|-------------|------ |
 | zebra stripes | are neat      |    $1 |
 
 ### Backend
