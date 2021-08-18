@@ -71,6 +71,7 @@ Git (branchs, commit, pull, push, deploys (GitHub y Heroku))
 - Apache, tomcat, Hibernate
 - H2 Database, Postgresql, MySQL
 
+### Frontend
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
@@ -78,6 +79,7 @@ Git (branchs, commit, pull, push, deploys (GitHub y Heroku))
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
+### Backend
 Markdown | Less | Pretty
 --- | --- | ---
 *Still* | `renders` | **nicely**
