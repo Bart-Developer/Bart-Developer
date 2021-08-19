@@ -76,9 +76,7 @@ Git (branchs, commit, pull, push, deploys (GitHub y Heroku))
 |  HTML 5       | Flex Box      | JavaScript  | Css 3 |
 | ------------- | --------------|-------------|------ |
 | Jquery        | Pug / Jade    | Bootstrap 5 | Sass  |
-| ------------- | --------------|-------------|------ |
 | Ajax          | Json          |  Api Rest   | Babel |
-| ------------- | --------------|-------------|------ |
 | Vue CLI -V 3  | React.js      | materialize | GIT   |
 
 
