@@ -25,8 +25,8 @@ Git (branchs, commit, pull, push, deploys (GitHub and Heroku))
 
 <details>
 <summary> Spanish? / Español? </summary>
-
- 
+/
+ /
 ¡Hola! Muchas gracias por visitar mi perfil.
 
 Me presento, me llamo Bartolomé, me dicen Bart, hoy después de hacer un Bootcamp de 700 horas. Con la metodología Agile / Scrum puedo decir que estoy orgulloso de ser un programador Full Stack.
@@ -49,41 +49,22 @@ Git (branchs, commit, pull, push, deploys (GitHub y Heroku))
 
 </details>
 
-- HTML 5
-- Flex Box
-- JavaScript
-- DOM
-- Jquery
-- Pug / Jade
-- Css 3
-- Sass
-- Ajax
-- Json
-- Api
-- Bootstrap 5
-- Babel
-* Framework: Vue CLI -V 3.x (Vuex, Event Bus, Routers, $Emit )
-* Framework: React.js: (Hooks UseState, useEffects, Redux, Custom-hooks)
+### Frontend 
 
-- Java --v 8 & 11
-- Gradle and Maven (Package Jar, War)
-- Spring Boot & Spring Security
-- Apache, tomcat, Hibernate
-- H2 Database, Postgresql, MySQL
-
-### Frontend                                                          ### Backend
-
-|  HTML 5       | Flex Box      | JavaScript  | Css 3 |              |  HTML 5       | Flex Box      | JavaScript  | Css 3 |         
-| ------------- | --------------|-------------|------ |              | ------------- | --------------|-------------|------ |
-| Jquery        | Pug / Jade    | Bootstrap 5 | Sass  |              | Jquery        | Pug / Jade    | Bootstrap 5 | Sass  |
-| Ajax          | Json          |  Api Rest   | Babel |              | Ajax          | Json          |  Api Rest   | Babel |
-| Vue CLI -V 3  | React.js      | materialize | GIT   |              | Vue CLI -V 3  | React.js      | materialize | GIT   |
+|  HTML 5       | Flex Box      | JavaScript  | Css 3 |        
+| ------------- | --------------|-------------|------ | 
+| Jquery        | Pug / Jade    | Bootstrap 5 | Sass  |  
+| Ajax          | Json          |  Api Rest   | Babel | 
+| Vue CLI -V 3  | React.js      | materialize | GIT   | 
 
 
+### Backend
 
-
-
-
+|  Java 8       |   Java 11       |  Gradle     | Maven |        
+| ------------- | --------------- |-------------|------ | 
+| Spring Boot   | Spring Security |   Apache    | MVC   |  
+| Hibernate     | Tomcat          | H2 Database | Docker| 
+| Postgresql    | MySQL           |   Heroku    | AWS   |
 
 
 ---
