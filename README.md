@@ -52,7 +52,6 @@ Git (branchs, commit, pull, push, deploys (GitHub y Heroku))
 ### Frontend 
 
 |  HTML 5       | Flex Box      | JavaScript  | Css 3 |        
-| ------------- | --------------|-------------|------ | 
 | Jquery        | Pug / Jade    | Bootstrap 5 | Sass  |  
 | Ajax          | Json          |  Api Rest   | Babel | 
 | Vue CLI -V 3  | React.js      | materialize | GIT   | 
@@ -61,7 +60,6 @@ Git (branchs, commit, pull, push, deploys (GitHub y Heroku))
 ### Backend
 
 |  Java 8       |   Java 11       |  Gradle     | Maven |        
-| ------------- | --------------- |-------------|------ | 
 | Spring Boot   | Spring Security |   Apache    | MVC   |  
 | Hibernate     | Tomcat          | H2 Database | Docker| 
 | Postgresql    | MySQL           |   Heroku    | AWS   |
