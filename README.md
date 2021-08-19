@@ -73,11 +73,9 @@ Git (branchs, commit, pull, push, deploys (GitHub y Heroku))
 
 ### Frontend
 
-|        |      | JavaScript  |   |
-| ------------- |:-------------:| :----------:| Css 3 |
 | Jquery        | Pug / Jade    | Bootstrap 5 | Sass  |
 | ------------- | --------------|-------------|------ |
-| zebra stripes | are neat      |    $1 |
+| Ajax          | Json          |  Api Rest   | Babel |
 
 
 
