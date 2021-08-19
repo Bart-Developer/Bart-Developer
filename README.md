@@ -73,10 +73,17 @@ Git (branchs, commit, pull, push, deploys (GitHub y Heroku))
 
 ### Frontend
 
-| HTML 5        | Flex Box      | JavaScript  |  DOM  |
+|        |      | JavaScript  |   |
 | ------------- |:-------------:| :----------:| Css 3 |
 | Jquery        | Pug / Jade    | Bootstrap 5 | Sass  |
 | ------------- | --------------|-------------|------ |
+| zebra stripes | are neat      |    $1 |
+
+
+
+| ------------- |:-------------:| -----:|
+| HTML 5        | Flex Box      | $1600 |
+| col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
 ### Backend
