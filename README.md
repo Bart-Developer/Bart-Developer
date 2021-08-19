@@ -71,26 +71,20 @@ Git (branchs, commit, pull, push, deploys (GitHub y Heroku))
 - Apache, tomcat, Hibernate
 - H2 Database, Postgresql, MySQL
 
-### Frontend
+### Frontend                                                          ### Backend
 
-|  HTML 5       | Flex Box      | JavaScript  | Css 3 |
-| ------------- | --------------|-------------|------ |
-| Jquery        | Pug / Jade    | Bootstrap 5 | Sass  |
-| Ajax          | Json          |  Api Rest   | Babel |
-| Vue CLI -V 3  | React.js      | materialize | GIT   |
+|  HTML 5       | Flex Box      | JavaScript  | Css 3 |              |  HTML 5       | Flex Box      | JavaScript  | Css 3 |         
+| ------------- | --------------|-------------|------ |              | ------------- | --------------|-------------|------ |
+| Jquery        | Pug / Jade    | Bootstrap 5 | Sass  |              | Jquery        | Pug / Jade    | Bootstrap 5 | Sass  |
+| Ajax          | Json          |  Api Rest   | Babel |              | Ajax          | Json          |  Api Rest   | Babel |
+| Vue CLI -V 3  | React.js      | materialize | GIT   |              | Vue CLI -V 3  | React.js      | materialize | GIT   |
 
 
 
-| ------------- |:-------------:| -----:|
-| HTML 5        | Flex Box      | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
 
-### Backend
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+
+
+
 
 ---
 ---
